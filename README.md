@@ -20,7 +20,7 @@ I am a programmer who knows many languages and like automating things
 [![forthebadge](https://img.shields.io/badge/rust-0b7261.svg?&style=for-the-badge&logo=rust&logoColor=white)](https://rust-lang.org)
 [![forthebadge](https://img.shields.io/badge/python-ffd448.svg?&style=for-the-badge&logo=python&logoColor=black)](https://python.org)
 [![forthebadge](https://img.shields.io/badge/javascript-fcdc00.svg?&style=for-the-badge&logo=javascript&logoColor=black)](https://javascript.com)
-[![forthebadge](https://img.shields.io/badge/typescript-3178c6.svg?&style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org)
+[![forthebadge](https://img.shields.io/badge/typescript-3178c6.svg?&style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 ![forthebadge](https://img.shields.io/badge/html-green.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![forthebadge](https://img.shields.io/badge/css-magenta.svg?&style=for-the-badge&logo=css3&logoColor=white)
 
