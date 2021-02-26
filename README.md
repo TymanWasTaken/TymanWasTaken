@@ -9,7 +9,7 @@
 
 I am a programmer who knows many languages and like automating things
 
-[![Join the discord badge](https://img.shields.io/badge/Join%my%20Discord-7289da.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/SHjSRNcfWZ)
+[![Join the discord badge](https://img.shields.io/badge/Join%20my%20Discord-7289da.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/SHjSRNcfWZ)
 
 ![Tyman's github stats](https://github-readme-stats.vercel.app/api?username=TymanWasTaken&count_private=true&show_icons=true&theme=gotham)
 
