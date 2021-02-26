@@ -1,9 +1,14 @@
-<div align="center">
+<h1 align = "center">
+	<img src="https://cdn.discordapp.com/avatars/487443883127472129/bc38c0e1c28fa9d1c3807c617c2cf79c.png">
+	<br>
+	Tyman
+</h1>
 
-# Tyman
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com)
+
+<div align="center">
 
 ## About
 
