@@ -1,5 +1,5 @@
 <h1 align = "center">
-	<img src="https://cdn.discordapp.com/avatars/487443883127472129/bc38c0e1c28fa9d1c3807c617c2cf79c.png">
+	<img src="https://cdn.discordapp.com/avatars/487443883127472129/980ba091679dba333044918e78645840.png">
 	<br>
 	Tyman
 </h1>
