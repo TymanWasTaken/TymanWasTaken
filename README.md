@@ -24,7 +24,6 @@ I am a programmer who knows many languages and like automating things
 
 [![kotlin](https://img.shields.io/badge/kotlin-7e46fb.svg?&style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
 [![java](https://img.shields.io/badge/java-e00000.svg?&style=for-the-badge&logo=java&logoColor=white)](https://java.com)
-[![rust](https://img.shields.io/badge/rust-0b7261.svg?&style=for-the-badge&logo=rust&logoColor=white)](https://rust-lang.org)
 [![pytho](https://img.shields.io/badge/python-ffd448.svg?&style=for-the-badge&logo=python&logoColor=black)](https://python.org)
 [![javascript](https://img.shields.io/badge/javascript-fcdc00.svg?&style=for-the-badge&logo=javascript&logoColor=black)](https://javascript.com)
 [![typescript](https://img.shields.io/badge/typescript-3178c6.svg?&style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
