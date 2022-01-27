@@ -29,5 +29,9 @@ I am a programmer who knows many languages and like automating things
 [![typescript](https://img.shields.io/badge/typescript-3178c6.svg?&style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 ![html](https://img.shields.io/badge/html-green.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/css-magenta.svg?&style=for-the-badge&logo=css3&logoColor=white)
+	
+### Crypto
+
+<img src="https://user-images.githubusercontent.com/32660892/151458620-865e6309-2da6-4531-ab0f-3cdd1da5ec6b.png" alt="" height="15px"> Monero (XMR): `43oVZ35vLcUR4mN7xVNVvKU4gDjHhPjMiP9Cu6AYn13uQQ4EaoK35wviZrveHL952u1tJFFRrZG25Yz2DZy4fNASHR3UnR2`
 
 </div>
