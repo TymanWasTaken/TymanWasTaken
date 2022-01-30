@@ -17,6 +17,7 @@
 I am a programmer who knows many languages and like automating things
 
 ![Tyman's github stats](https://github-readme-stats.vercel.app/api?username=TymanWasTaken&count_private=true&show_icons=true&theme=gotham)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=TymanWasTaken&theme=gotham)
 
 ### Languages 
 
