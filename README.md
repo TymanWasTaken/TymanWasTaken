@@ -29,6 +29,9 @@ I am a programmer who knows many languages and like automating things
 ![html](https://img.shields.io/badge/html-green.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/css-magenta.svg?&style=for-the-badge&logo=css3&logoColor=white)
 	
+### GPG keys
+All my public keys can be found in https://github.com/TymanWasTaken/files/tree/master/keys. The only one I actively use is [`1E064E7C739CC3426132CD04CE7836AA83D56858`](https://github.com/TymanWasTaken/files/blob/master/keys/1E064E7C739CC3426132CD04CE7836AA83D56858.asc), which can be also found on https://keyserver.ubuntu.com/, https://keys.openpgp.org/, and https://keys.mailvelope.com/ keyservers. I also have [`C06F32CD905F8CD4B43BDD347F17F5E1693307E7`](https://github.com/TymanWasTaken/files/blob/master/keys/C06F32CD905F8CD4B43BDD347F17F5E1693307E7.asc) for my github email, and [`96CC894A594D4BFF5A9A8E02BB1A62EEDCBC4E57`](https://github.com/TymanWasTaken/files/blob/master/keys/96CC894A594D4BFF5A9A8E02BB1A62EEDCBC4E57.asc) for my expired tyman.tech email.
+	
 ### Crypto
 
 <img src="https://user-images.githubusercontent.com/32660892/151458620-865e6309-2da6-4531-ab0f-3cdd1da5ec6b.png" alt="" height="15px"> Monero (XMR): `43oVZ35vLcUR4mN7xVNVvKU4gDjHhPjMiP9Cu6AYn13uQQ4EaoK35wviZrveHL952u1tJFFRrZG25Yz2DZy4fNASHR3UnR2`
