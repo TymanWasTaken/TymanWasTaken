@@ -7,7 +7,7 @@
 <div align="center">
 
 [![Pronouns](https://img.shields.io/endpoint?color=cyan&logo=pronouns&style=for-the-badge&url=https%3A%2F%2Fpronoundb.org%2Fshields%2F60026e79406af11e4593a00a)](https://pronoundb.org/)
-<a rel="me" href="https://tech.lgbt/@tyyyyy">![Mastodon](https://img.shields.io/mastodon/follow/109371929725243899?domain=https%3A%2F%2Ftech.lgbt&label=Mastodon&logo=mastodon&style=for-the-badge)</a>
+
 	
 [![Powered by electricity](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com)
 [![It works. Why?](https://forthebadge.com/images/badges/it-works-why.svg)](https://forthebadge.com)
